@@ -6,6 +6,10 @@ print('youtemail@mail.gr')
 def myfunction():
     x = 20
     print(20)
+    
+def myfunction_02():
+    x = 'hello world'
+    print(x)
 
 x = 10
 
